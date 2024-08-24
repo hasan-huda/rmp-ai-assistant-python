@@ -1,0 +1,76 @@
+{
+  "reviews": [
+    {
+      "professor": "Prof1",
+      "review": "Great professor, very engaging and clear in explaining concepts. Highly recommend for Math courses.",
+      "subject": "Math",
+      "stars": 5
+    },
+    {
+      "professor": "Prof2",
+      "review": "The lectures were interesting, but the grading was tough. You really need to stay on top of your assignments.",
+      "subject": "Physics",
+      "stars": 3
+    },
+    {
+      "professor": "Prof3",
+      "review": "The professor is knowledgeable, but the course was challenging. Make sure to attend office hours.",
+      "subject": "Chemistry",
+      "stars": 4
+    },
+    {
+      "professor": "Prof4",
+      "review": "Great sense of humor and makes history enjoyable. Exams are straightforward if you attend lectures.",
+      "subject": "History",
+      "stars": 5
+    },
+    {
+      "professor": "Prof5",
+      "review": "The professor is strict but fair. The class is fast-paced, so be prepared to work hard.",
+      "subject": "Computer Science",
+      "stars": 4
+    },
+    {
+      "professor": "Prof6",
+      "review": "Lectures were boring and difficult to follow. However, the professor is helpful during office hours.",
+      "subject": "Biology",
+      "stars": 2
+    },
+    {
+      "professor": "Prof7",
+      "review": "Amazing professor! Always available to help and really cares about students' success.",
+      "subject": "English",
+      "stars": 5
+    },
+    {
+      "professor": "Prof8",
+      "review": "The course material was interesting, but the professor was often late to class and seemed unorganized.",
+      "subject": "Economics",
+      "stars": 3
+    },
+    {
+      "professor": "Prof9",
+      "review": "The professor is passionate about the subject, but the workload is heavy. Be prepared for a lot of reading.",
+      "subject": "Political Science",
+      "stars": 4
+    },
+    {
+      "professor": "Prof10",
+      "review": "Not the best at explaining things in lectures, but the textbook is a lifesaver. Make sure to read it thoroughly.",
+      "subject": "Philosophy",
+      "stars": 3
+    },
+    {
+      "professor": "Prof11",
+      "review": "Fantastic professor! Classes are interactive and you really learn a lot. Would take another course with them.",
+      "subject": "Sociology",
+      "stars": 5
+    },
+    {
+      "professor": "Prof12",
+      "review": "The professor was helpful and made the material easy to understand. Tests were fair and based on lectures.",
+      "subject": "Psychology",
+      "stars": 4
+    }
+  ]
+}
